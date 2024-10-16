@@ -17,7 +17,6 @@ A Quiz Application built with **NestJS**, **Node.js**, and **SQLite** for interv
 - **User Role**: 
   - Take assigned tests and submit answers.
 
-- **Responsive Design**: Modern UI with responsive layouts.
 - **Role-Based Access Control**: Admin and user roles with defined permissions.
 
 ## Installation
